@@ -1,0 +1,6 @@
+{
+  "name": "เครื่องคิดเลข",
+  "description": "เครื่องคิดเลขครบวงจร รองรับโหมดมาตรฐาน วิทยาศาสตร์ ประวัติการคำนวณ แปลงหน่วย และคำนวณภาษี/ส่วนลด",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
